@@ -1,0 +1,24 @@
+.Flag {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+} 
+.Bahamas{
+    background: linear-gradient(#01aef0 33%, #fef200 33%, #fef200 66%, #01aef0 0);
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(221, 239, 255);
+    display: grid;
+    place-items: center;
+    font-family: cursive;
+    font-weight: bold;
+  }
+.BlackTriangle {
+    position: absolute;
+    border: 100px solid transparent;
+    border-left-color: #231f20;
+}
