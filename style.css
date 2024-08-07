@@ -28,7 +28,7 @@ h1 {
     float: right;
     position: relative;
     bottom: 310px;
-    background-image: url("pic\ for\ landing\ page.png");
+    background-image: url("./assets/pic\ for\ landing\ page.png");
     background-size: cover;
     display: inline-block;
     padding-right: 300px;
